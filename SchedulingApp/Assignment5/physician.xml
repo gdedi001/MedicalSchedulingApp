@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfPhysician xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Physician>
+    <id>1</id>
+    <firstName>Hector</firstName>
+    <lastName>Salamanca</lastName>
+    <specialty>Obstetrics</specialty>
+  </Physician>
+  <Physician>
+    <id>2</id>
+    <firstName>Walter</firstName>
+    <lastName>White</lastName>
+    <specialty>Pediatrics</specialty>
+  </Physician>
+  <Physician>
+    <id>3</id>
+    <firstName>Jessie</firstName>
+    <lastName>Pinkman</lastName>
+    <specialty>Orthopedics</specialty>
+  </Physician>
+  <Physician>
+    <id>4</id>
+    <firstName>Hank</firstName>
+    <lastName>Schrader</lastName>
+    <specialty>Family</specialty>
+  </Physician>
+  <Physician>
+    <id>5</id>
+    <firstName>Gus</firstName>
+    <lastName>Fring</lastName>
+    <specialty>Obstetrics</specialty>
+  </Physician>
+</ArrayOfPhysician>
