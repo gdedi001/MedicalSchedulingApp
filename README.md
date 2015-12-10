@@ -1,2 +1,2 @@
 # Medical Scheduling App
-![Alt text](main.jpg?raw=true "Home Screen")
+![Home Screen](main.png?raw=true "Home Screen")
